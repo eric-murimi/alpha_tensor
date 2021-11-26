@@ -1,0 +1,16 @@
+{
+  "name": "alpha-tensor",
+  "version": "1.0.0",
+  "description": "a scrapbox projec for a rest server that works with tensorflow",
+  "main": "index.js",
+  "author": "murimikagendo@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
